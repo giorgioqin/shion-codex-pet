@@ -1,6 +1,7 @@
 # 柳木诗梦 · Codex Desktop Pet
 
-一个非官方的《甜蜜女友3》柳木诗梦像素桌面宠物包，适用于 Codex 桌面宠物。
+一个非官方纯二创的《甜蜜女友3》柳木诗梦像素桌面宠物包，借助ChatGPT完成，适用于 Codex 桌面宠物。本人之前没有过做这种文件的经验，可能简陋了一些。
+灵感来源于抖音博主“@然”发布的“拼豆图纸｜哈基梦”
 
 This is an unofficial fan-made custom pet. It is not affiliated with or endorsed by the game publisher or the character's rights holders.
 
